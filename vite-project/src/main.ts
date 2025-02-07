@@ -10,6 +10,7 @@ import './topics/05-desestructura.ts';
 import './topics/06-desArgumentos.ts';
 import './topics/07-import-export.ts';
 import './topics/08-clasesbases.ts';
+import './topics/09-genericas.ts';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
